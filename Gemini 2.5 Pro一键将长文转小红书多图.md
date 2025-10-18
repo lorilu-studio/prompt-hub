@@ -1,4 +1,4 @@
-# AI一键将长文转小红书多图
+# Gemini 2.5 Pro一键将长文转小红书多图
 
 来源：https://superhuang.feishu.cn/wiki/AviQwUex5iJMTCksnAoclF67nNe
 
